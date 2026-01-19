@@ -8,7 +8,7 @@ Extracts key points and highlights
 Supports articles, blogs, and research content
 Fast, accurate, and easy to use
 Mobile and desktop friendly
-Ideal For:
+Ideal For
 Students and researchers
 Working professionals
 Content creators
